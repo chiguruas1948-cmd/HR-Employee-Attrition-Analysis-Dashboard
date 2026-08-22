@@ -27,13 +27,13 @@ https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/bl
 
 ##  Process
 
-.Collected and prepared the HR dataset
+* Collected and prepared the HR dataset.
 
-.Created Pivot Tables and calculated key KPIs
+* Created Pivot Tables and calculated key KPIs.
 
-.Designed interactive charts and KPI cards
+* Designed interactive charts and KPI cards.
 
-.Added slicers for dynamic filtering
+* Added slicers for dynamic filtering.
 
-.Analyzed HR metrics and generated business insights
+* Analyzed HR metrics and generated business insights.
 
