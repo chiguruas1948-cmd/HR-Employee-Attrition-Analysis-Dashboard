@@ -1,2 +1,7 @@
-# HR-Employee-Attrition-Analysis-Dashboard
-Interactive HR Employee Attrition Analysis Dashboard built using Microsoft Excel, Power Query, PivotTables, PivotCharts, KPIs and Slicers to analyze workforce attrition and identify key HR trends.
+HR Employee Attrition Analysis Dashboard
+
+##  Project Overview
+
+This project presents an interactive HR Employee Attrition Analysis Dashboard created using Microsoft Excel.
+
+The dashboard analyzes employee attrition patterns across different demographic and workplace factors and presents key HR metrics through interactive visualizations and KPI cards.
