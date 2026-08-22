@@ -37,3 +37,8 @@ https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/bl
 
 * Analyzed HR metrics and generated business insights.
 
+##  Dashboard Image 
+
+  <img width="623" height="271" alt="HR ATTRITION DASHBOARD PROJECT" src="https://github.com/user-attachments/assets/a21409ef-01d4-4311-91b4-d9a52e028850" />
+
+
