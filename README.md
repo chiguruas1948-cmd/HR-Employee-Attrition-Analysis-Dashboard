@@ -23,6 +23,7 @@ This dashboard analyzes key workforce factors such as department, job role, age,
  ##  Dashboard 
 
 You can download and explore the interactive Excel dashboard here:
+
 https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/blob/main/HR%20Employee%20Attrition%20Analysis.xlsx
 
 ##  Process
@@ -40,5 +41,20 @@ https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/bl
 ##  Dashboard Image 
 
   <img width="623" height="271" alt="HR ATTRITION DASHBOARD PROJECT" src="https://github.com/user-attachments/assets/a21409ef-01d4-4311-91b4-d9a52e028850" />
+
+
+##  Project Insights
+
+- The dashboard provides an overview of overall employee attrition.
+- Attrition can be compared across different job roles and departments.
+- Age-group analysis helps identify employee segments with higher attrition.
+- Job satisfaction provides an additional perspective on employee attrition.
+- Gender and overtime analysis help identify workforce patterns.
+- Interactive filters allow users to explore the data dynamically.
+
+
+##  Conclusion
+
+This project demonstrates how Microsoft Excel can transform HR data into meaningful insights on employee attrition. Using Pivot Tables, Pivot Charts, KPIs, and interactive slicers, the dashboard helps identify attrition patterns across job roles, departments, age, gender, overtime, and job satisfaction, supporting data-driven HR decision-making.
 
 
