@@ -21,5 +21,6 @@ This dashboard analyzes key workforce factors such as department, job role, age,
 - Average Age: 36.92
 
  ##  Dashboard Preview
+ 
+https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/blob/main/HR%20Employee%20Attrition%20Analysis.xlsx
 
-![HR Employee Attrition Dashboard](HR_Attrition_Dashboard.png)
