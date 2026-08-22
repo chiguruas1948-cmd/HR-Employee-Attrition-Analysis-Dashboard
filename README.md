@@ -20,7 +20,8 @@ This dashboard analyzes key workforce factors such as department, job role, age,
 - Employees Stayed: 1,233
 - Average Age: 36.92
 
- ##  Dashboard Preview
- 
+ ##  Dashboard 
+
+You can download and explore the interactive Excel dashboard here:
 https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/blob/main/HR%20Employee%20Attrition%20Analysis.xlsx
 
