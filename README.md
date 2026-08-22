@@ -6,9 +6,20 @@ This project presents an interactive HR Employee Attrition Analysis Dashboard cr
 
 The dashboard analyzes employee attrition patterns across different demographic and workplace factors and presents key HR metrics through interactive visualizations and KPI cards.
 
-# 📂 Data Source
+#  Business Problem
 
-The dataset used in this project is the *IBM HR Analytics Employee Attrition & Performance* dataset, a fictional dataset created by IBM data scientists and available on Kaggle.
+High employee attrition can increase recruitment costs and affect workforce stability. HR teams need to identify the factors and employee groups associated with higher attrition to improve retention.
 
-*Source:* [IBM HR Analytics Employee Attrition & Performance – Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-*Note:* The dataset is fictional and is used for educational and portfolio purposes.
+This dashboard analyzes key workforce factors such as department, job role, age, gender, overtime, and job satisfaction to uncover attrition patterns and support data-driven HR decisions.
+
+##  Key KPIs
+
+- Total Employees: 1,470
+- Employees Left: 237
+- Attrition Rate: 16.12%
+- Employees Stayed: 1,233
+- Average Age: 36.92
+
+ ##  Dashboard Preview
+
+![HR Employee Attrition Dashboard](HR_Attrition_Dashboard.png)
