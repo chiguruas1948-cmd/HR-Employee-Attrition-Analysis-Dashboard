@@ -9,7 +9,7 @@ This project focuses on developing an interactive HR Employee Attrition Analysis
 High employee attrition can increase recruitment costs and affect workforce stability. HR teams need to identify the factors and employee groups associated with higher attrition to improve retention.
 This dashboard analyzes key workforce factors such as department, job role, age, gender, overtime, and job satisfaction to uncover attrition patterns and support data-driven HR decisions.
 
-##  Key KPIs
+##  Key Performance Indicators (KPIs)
 
 - Total Employees: 1,470
 - Employees Left: 237
