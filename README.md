@@ -7,7 +7,6 @@ This project focuses on developing an interactive HR Employee Attrition Analysis
 #  Business Problem
 
 High employee attrition can increase recruitment costs and affect workforce stability. HR teams need to identify the factors and employee groups associated with higher attrition to improve retention.
-
 This dashboard analyzes key workforce factors such as department, job role, age, gender, overtime, and job satisfaction to uncover attrition patterns and support data-driven HR decisions.
 
 ##  Key KPIs
@@ -53,6 +52,7 @@ https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/bl
 
 ##  Conclusion
 
-This project demonstrates how Microsoft Excel can transform HR data into meaningful insights on employee attrition. Using Pivot Tables, Pivot Charts, KPIs, and interactive slicers, the dashboard helps identify attrition patterns across job roles, departments, age, gender, overtime, and job satisfaction, supporting data-driven HR decision-making.
+This project demonstrates how Microsoft Excel can be used to transform raw HR data into meaningful insights for workforce analysis. The dashboard provides a clear view of employee attrition and highlights how factors such as job role, department, age, gender, overtime, and job satisfaction can be explored to understand attrition patterns.
 
+By combining Pivot Tables, Pivot Charts, KPIs, and interactive slicers, the dashboard enables users to explore HR data dynamically and supports more informed, data-driven decision making. Overall, this project strengthened my practical skills in HR Analytics, Excel Dashboard Development, Data Visualization, and Business Insight Generation.
 
