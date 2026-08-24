@@ -37,7 +37,8 @@ https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/bl
 
 ##  Dashboard Image 
 
-  https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/blob/main/Dashboard%20pic.png
+<img width="877" height="394" alt="Dashboard pic" src="https://github.com/user-attachments/assets/aad57e2c-6569-40f1-b6a1-7fb70bdf7320" />
+
   
 ##  Project Insights
 
