@@ -37,9 +37,8 @@ https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/bl
 
 ##  Dashboard Image 
 
-  <img width="589" height="271" alt="HR EMPLOYEE ATTRITION DASHBOARD PROJECT" src="https://github.com/user-attachments/assets/94c42488-46aa-4946-8645-f3af53ee794c" />
-
-
+  https://github.com/chiguruas1948-cmd/HR-Employee-Attrition-Analysis-Dashboard/blob/main/Dashboard%20pic.png
+  
 ##  Project Insights
 
 - The dashboard provides an overview of overall employee attrition.
